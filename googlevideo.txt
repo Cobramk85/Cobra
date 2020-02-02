@@ -22804,8 +22804,3 @@ r9---sn-vgqsrnez.googlevideo.com
 r9---sn-x1x7dn7s.googlevideo.com
 r9---sn-x1x7dn7z.googlevideo.com
 r9---snn--vgqsknee.googlevideo.com
-s.richmediastudio.com
-t4.richmediastudio.com
-Regex & Wildcard blocking
-https://s.richmediastudio.com
-https://vollversion-kaufen.de/
